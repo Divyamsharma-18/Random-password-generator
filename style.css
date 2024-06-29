@@ -10,7 +10,7 @@ body{
     width: 400px;
     display: flex;
     flex-direction: column;
-    margin-top: 40%;
+    margin-top: 100px;
 }
 .white{
     color: white;
